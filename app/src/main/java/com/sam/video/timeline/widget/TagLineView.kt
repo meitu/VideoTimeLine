@@ -39,7 +39,7 @@ import kotlin.math.abs
  *
  * 使用：
  * 数据更改后，要调用 dataChange刷新view
- * @author SamWang(wds0405@qq.com)
+ * @author SamWang(33691286@qq.com)
  * @date 2019-07-31
  */
 open class TagLineView @JvmOverloads constructor(

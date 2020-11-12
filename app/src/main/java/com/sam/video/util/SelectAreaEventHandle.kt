@@ -19,7 +19,7 @@ import com.sam.video.timeline.widget.TimeLineBaseValue
  * 区域选择 [com.sam.video.timeline.widget.SelectAreaView]；
  * tag 移动 [com.sam.video.timeline.widget.TagLineView]
  *
- * @author SamWang(wds0405@qq.com)
+ * @author SamWang(33691286@qq.com)
  * @date 2019-09-12
  */
 class SelectAreaEventHandle(context: Context) {

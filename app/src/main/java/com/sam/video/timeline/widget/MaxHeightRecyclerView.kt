@@ -5,7 +5,7 @@ import android.util.AttributeSet
 
 /**
  * 限制最大高度的rv
- * @author SamWang(wds0405@qq.com)
+ * @author SamWang(33691286@qq.com)
  * @date 2019-08-07
  */
 class MaxHeightRecyclerView @JvmOverloads constructor(

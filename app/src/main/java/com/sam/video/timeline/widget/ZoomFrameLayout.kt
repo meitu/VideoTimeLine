@@ -17,7 +17,7 @@ import com.sam.video.timeline.listener.VideoPlayerOperate
 
 /**
  * 拦截最外层，统一调度缩放事件、滑动事件
- * @author SamWang(wds0405@qq.com)
+ * @author SamWang(33691286@qq.com)
  * @date 2019-07-19
  */
 class ZoomFrameLayout : FrameLayout,

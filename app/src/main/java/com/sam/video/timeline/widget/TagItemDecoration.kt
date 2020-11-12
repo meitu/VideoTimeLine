@@ -10,7 +10,7 @@ import com.sam.video.util.dp2px
  * 标签弹窗的item间隔
  *
  * 间隔的数据 为间隔前的item position
- * @author SamWang(wds0405@qq.com)
+ * @author SamWang(33691286@qq.com)
  * @date 2019-07-22
  */
 class TagItemDecoration(context: Context) : RecyclerView.ItemDecoration() {

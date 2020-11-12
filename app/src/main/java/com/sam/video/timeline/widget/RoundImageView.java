@@ -17,7 +17,7 @@ import com.sam.video.timeline.R;
 
 /**
  * 通过 PorterDuffXfermode 得到圆角ImageView
- * @author SamWang(wds0405@qq.com)
+ * @author SamWang(33691286@qq.com)
  * @date 2019/5/7
  */
 public class RoundImageView extends AppCompatImageView {

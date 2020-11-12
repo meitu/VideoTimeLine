@@ -7,7 +7,7 @@ import androidx.annotation.IntDef
  * 标签线 需要的数据
  *
  * 具体的绘制内容由文字标签给出
- * @author SamWang(wds0405@qq.com)
+ * @author SamWang(33691286@qq.com)
  * @date 2019-08-03
  */
 class TagLineViewData(

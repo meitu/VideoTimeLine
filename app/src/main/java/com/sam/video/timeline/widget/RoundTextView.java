@@ -16,7 +16,7 @@ import com.sam.video.timeline.R;
 /**
  * 只需要设置背景色就能得到圆角的背景 TextView
  *
- * @author SamWang(wds0405@qq.com)
+ * @author SamWang(33691286@qq.com)
  * @date 2019/5/7
  */
 public class RoundTextView extends AppCompatTextView {

@@ -17,7 +17,7 @@ import kotlinx.android.synthetic.main.item_tag_text.view.*
 
 /**
  * 文字贴纸 弹窗列表 adapter
- * @author SamWang(wds0405@qq.com)
+ * @author SamWang(33691286@qq.com)
  * @date 2019-08-07
  */
 class TagAdapter(val context: Context, val data: MutableList<TagLineViewData>) :

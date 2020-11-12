@@ -3,7 +3,7 @@ package com.sam.video.timeline.bean
 /**
  * 时间轴区域数据
  * 实现该接口以指定时间轴上的一段区域，并在开始和结束位置与相应的视频片断绑定
- * @author SamWang(wds0405@qq.com)
+ * @author SamWang(33691286@qq.com)
  * @date 2019-12-04
  */
 interface TimeLineAreaData {

@@ -13,7 +13,7 @@ import com.sam.video.util.dp2px
 /**
  * 多个视频 帧列表的视频间隔
  *
- * @author SamWang(wds0405@qq.com)
+ * @author SamWang(33691286@qq.com)
  * @date 2019-07-22
  */
 class VideoFrameItemDecoration(context: Context) : RecyclerView.ItemDecoration() {

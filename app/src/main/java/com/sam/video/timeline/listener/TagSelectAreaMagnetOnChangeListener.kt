@@ -14,7 +14,7 @@ import kotlin.math.min
 /**
  * 区域选择变化监听 - 标签
  * 封装磁吸功能通用代码
- * @author SamWang(wds0405@qq.com)
+ * @author SamWang(33691286@qq.com)
  * @date 2019-08-20
  */
 abstract class TagSelectAreaMagnetOnChangeListener(

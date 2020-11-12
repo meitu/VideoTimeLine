@@ -22,7 +22,7 @@ import com.sam.video.util.removeObj
  * 重叠的标签组 选择弹窗
  * 更新的时候水平位置要有偏移，小三角的位置更新
  *
- * @author SamWang(wds0405@qq.com)
+ * @author SamWang(33691286@qq.com)
  * @date 2019-08-08
  */
 class TagPopWindow(val context: Context) : PopupWindow(context) {

@@ -22,7 +22,7 @@ import kotlin.math.min
  * 单视频：没有间隔，直接按视频长度换算
  * 多视频，首尾两个 + 一半间隔，中间的 + 完整间隔
  *
- * @author SamWang(wds0405@qq.com)
+ * @author SamWang(33691286@qq.com)
  * @date 2019-07-29
  */
 class VideoFrameRecyclerView @JvmOverloads constructor(

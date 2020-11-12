@@ -12,7 +12,7 @@ import com.sam.video.timeline.widget.RoundRectMask
 
 /**
  * 帧列表 adapter
- * @author SamWang(wds0405@qq.com)
+ * @author SamWang(33691286@qq.com)
  * @date 2019-07-19
  */
 class VideoFrameAdapter(data: MutableList<VideoFrameData>, private val frameWidth: Int) : BaseQuickAdapter<VideoFrameData, BaseViewHolder>(
