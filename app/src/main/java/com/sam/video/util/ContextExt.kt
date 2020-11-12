@@ -80,14 +80,14 @@ val Int.dp: Int
         Resources.getSystem().displayMetrics
     ).toInt()
 
-@Deprecated("注意:美图秀秀文字大小统一要求使用dp", ReplaceWith("dp"))
+@Deprecated("注意:文字大小统一要求使用dp", ReplaceWith("dp"))
 val Float.sp: Float
     get() = TypedValue.applyDimension(
         TypedValue.COMPLEX_UNIT_SP, this, Resources.getSystem().displayMetrics
     )
 
 
-@Deprecated("注意:美图秀秀文字大小统一要求使用dp", ReplaceWith("dp"))
+@Deprecated("注意:文字大小统一要求使用dp", ReplaceWith("dp"))
 val Int.sp: Int
     get() = TypedValue.applyDimension(
         TypedValue.COMPLEX_UNIT_SP,
